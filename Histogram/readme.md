@@ -4,3 +4,6 @@ Basic analysis over a relatively large social network graph derived from the bil
 
 Pig script runs on a AWS on a m4.large instance.
 19 nodes are needed for the full dataset histogram (running the script takes approx. 20 minutes)
+
+![Alt text](Histogram/index2.png?raw=true "Title")
+
