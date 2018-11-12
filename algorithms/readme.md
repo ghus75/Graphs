@@ -8,4 +8,4 @@ data is input as follows:
       n, m = data[0:2] # number of vertices, number of edges
       data = data[2:]  # each line contains: vertex1 vertex2 [weight]
 
-All algorithms are from Coursera's Algorithms on graphs course (UC San Diego) and were tested using the grader
+All algorithms are from Coursera's Algorithms on graphs course (UC San Diego) and theit time and space complexities were tested using the grader
