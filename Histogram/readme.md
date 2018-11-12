@@ -1,4 +1,4 @@
-# Graph histogram using Pig on a Hadoop cluster
+# 0.6Tb graph histogram using Pig on a Hadoop cluster
 
 Basic analysis over a relatively large social network graph derived from the billion triple challenge associated with the Semantic Web. The dataset is represented using the Resource Description Framework (RDF), where each record represents one edge in the graph.
 
